@@ -6,3 +6,6 @@ payload:
   #- DOMAIN-KEYWORD,openai
   #- IP-ASN,20473,no-resolve
 - IP-CIDR,45.254.50.146/32,no-resolve
+- IP-CIDR,119.3.116.131/32,no-resolve
+
+
