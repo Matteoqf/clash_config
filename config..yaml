@@ -1,0 +1,8 @@
+
+payload:
+  #- DOMAIN,gemini.google.com
+  #- DOMAIN-SUFFIX,ai.com
+  #- DOMAIN-SUFFIX,openai.com
+  #- DOMAIN-KEYWORD,openai
+  #- IP-ASN,20473,no-resolve
+- IP-CIDR,45.254.50.146:443/32,no-resolve
